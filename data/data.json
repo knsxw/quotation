@@ -1,0 +1,26 @@
+[
+    {
+            "quantity": 2.5,
+            "description": "Apple, Fresh Red Apples",
+            "unitPrice": 3.00,
+            "amount": 7.50
+    },
+    {
+            "quantity": 1,
+            "description": "Banana, Ripe Yellow Bananas",
+            "unitPrice": 1.20,
+            "amount": 1.20
+    },
+    {
+            "quantity": 1,
+            "description": "Orange, Juicy Oranges",
+            "unitPrice": 2.00,
+            "amount": 2.00
+    },
+    {
+            "quantity": 3,
+            "description": "Grapes, Seedless Green Grapes, Freshly picked",
+            "unitPrice": 4.00,
+            "amount": 12.00
+    }
+]
